@@ -1,5 +1,5 @@
 # ESPNuggets
-Resources for programming WiFi Nuggets and USB Nuggets, because the official documentation is often not complete or accurate, and Chrome often fails to flash the devices properly every time.
+Resources for programming WiFi Nuggets and USB Nuggets, because the official documentation is often incomplete or innacurrate, and Chrome often fails to flash the devices properly every time (especially on Linux).
 
 This is not meant to be a replacement for the official documentation, this is merely information I've gathered myself to make working with these devices more straightforward.
 
