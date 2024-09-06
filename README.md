@@ -8,6 +8,10 @@ This is not meant to be a replacement for the official documentation, this is me
 - https://usb.nugget.dev
 - https://wifi.nugget.dev/
 
+# Custom cases
+[Faceplate with no LED window](CustomizedCases/NoLEDWindow/Nugget_Faceplate_NoLEDHole.stl)
+The LED on the USB/WiFi nugget is extremely bright and pointed directly at your face if you're looking at the screen. This alternative faceplate covers up the LED hole on the front. Depending on the filament you print this with, the LED is still likely bright enough to show through the plastic.
+
 # Manually flashing
 Retia LLC has build an amazing flashing tool on their website (https://nugget.dev), but I have found that it often doesn't properly flash the chip the first time, and it can get generally unlreliable the longer that Chrome is open. I suspect these are Chrome related issues, rather than issues with their site. The site also only works in Chrome (or presumably Microsoft Edge also), but some people (like Linux users) may not want to have Chrome installed.
 
